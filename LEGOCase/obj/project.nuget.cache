@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5OY2CqHwAXHkEN+BuF8mtNM46qv2YJlGietWIuXaPnrshZ/UmcO9+EroNXlcSqbTjM3cSwXJuKvPQh6ADCuGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\LegoCase\\LEGOCase\\LEGOCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elena\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

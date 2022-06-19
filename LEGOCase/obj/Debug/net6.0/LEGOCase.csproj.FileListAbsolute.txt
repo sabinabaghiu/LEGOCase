@@ -1,0 +1,17 @@
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\LEGOCase.exe
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\LEGOCase.deps.json
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\LEGOCase.runtimeconfig.json
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\LEGOCase.dll
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\LEGOCase.pdb
+D:\Projects\LegoCase\LEGOCase\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.csproj.AssemblyReference.cache
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.AssemblyInfoInputs.cache
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.AssemblyInfo.cs
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.csproj.CoreCompileInputs.cache
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.csproj.CopyComplete
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.dll
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\refint\LEGOCase.dll
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.pdb
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\LEGOCase.genruntimeconfig.cache
+D:\Projects\LegoCase\LEGOCase\obj\Debug\net6.0\ref\LEGOCase.dll
