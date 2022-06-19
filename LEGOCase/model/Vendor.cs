@@ -6,15 +6,15 @@ namespace LEGOCase.model;
 public class Vendor
 {
     [JsonPropertyName("ID")]
-    public int Id { get; set; }
+    public int? Id { get; set; }
     [JsonPropertyName("Name")] 
-    public string Name { get; set; }
+    public string? Name { get; set; }
     [JsonPropertyName("PostalCode")]
-    public string PostalCode { get; set; }
+    public string? PostalCode { get; set; }
     [JsonPropertyName("Address")]
-    public string Address { get; set; }
+    public string? Address { get; set; }
     [JsonPropertyName("ContactPerson")]
-    public string ContactPerson { get; set; }
+    public string? ContactPerson { get; set; }
     [JsonPropertyName("ECOFriendly")]
     public bool EcoFriendly { get; set; }
 

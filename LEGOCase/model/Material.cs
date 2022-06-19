@@ -6,25 +6,25 @@ namespace LEGOCase.model;
 public class Material
 {
     [JsonPropertyName("ID")] 
-    public int Id { get; set; }
+    public int? Id { get; set; }
     [JsonPropertyName("Name")]
-    public string Name { get; set; }
+    public string? Name { get; set; }
     [JsonPropertyName("VendorID")] 
-    public int VendorId { get; set; }
+    public int? VendorId { get; set; }
     [JsonPropertyName("Color")] 
-    public string Color { get; set; }
+    public string? Color { get; set; }
     [JsonPropertyName("PricePerUnit")] 
-    public float PricePerUnit { get; set; }
+    public float? PricePerUnit { get; set; }
     [JsonPropertyName("Currency")] 
-    public string Currency { get; set; }
+    public string? Currency { get; set; }
     [JsonPropertyName("Unit")] 
-    public string Unit { get; set; }
+    public string? Unit { get; set; }
     [JsonPropertyName("MeltingPoint")] 
-    public float MeltingPoint { get; set; }
+    public float? MeltingPoint { get; set; }
     [JsonPropertyName("TempUnit")] 
-    public string TempUnit { get; set; }
+    public string? TempUnit { get; set; }
     [JsonPropertyName("DeliveryTimeDays")] 
-    public int DeliveryTimeDays { get; set; }
+    public int? DeliveryTimeDays { get; set; }
     
     public override string ToString()
     {

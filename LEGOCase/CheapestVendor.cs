@@ -7,10 +7,11 @@ public class CheapestVendor
     public void FindVendor(MaterialList materials)
     {
         var updatedMaterialList = new List<Material>();
-        foreach (var material in materials.Materials)
-        {
-            updatedMaterialList.Add(handleDetails(material));
-        }
+        if (materials.Materials != null)
+            foreach (var material in materials.Materials)
+            {
+                updatedMaterialList.Add(handleDetails(material));
+            }
 
         var groupedMaterials = updatedMaterialList
             .GroupBy(m => m.Name)
@@ -57,7 +58,7 @@ public class CheapestVendor
 
     private void convert(Material material, float price, float unit)
     {
-        if (material.Unit.Equals("kg"))
+        if (material.Unit != null && material.Unit.Equals("kg"))
         {
             material.PricePerUnit *= price;
         }

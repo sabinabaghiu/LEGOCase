@@ -5,5 +5,5 @@ namespace LEGOCase.model;
 public class VendorList
 {
     [JsonPropertyName("Vendors")] 
-    public List<Vendor> Vendors { get; set; }
+    public List<Vendor>? Vendors { get; set; }
 }
